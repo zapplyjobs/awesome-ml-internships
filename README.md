@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![AI & ML Internships](https://img.shields.io/badge/AI_&_ML_Internships-265-brightgreen?style=flat&logo=briefcase)
+![AI & ML Internships](https://img.shields.io/badge/AI_&_ML_Internships-263-brightgreen?style=flat&logo=briefcase)
 ![Top: Other AI & ML Internships](https://img.shields.io/badge/Other_AI_&_ML_Internships-93-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-110-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-109-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/awesome-ML-internships?style=flat&logo=calendar)
 
 </div>
@@ -158,12 +158,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **LPL Financial** | Intern 2027 - Service Transformation ... | Fort Mill/Charlotte | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---Service-Transformation---Data-Analytics_R-053219) |
 | **LPL Financial** | Intern 2027 - FAR Program - Internal ... | Fort Mill/Charlotte | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---FAR-Program---Internal-Audit---Data-Analytics_R-053198) |
 | **Wells Fargo** | 2027 Quantitative Analytics Summer In... | CHARLOTTE, NC | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/wellsfargojobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--RADS-PhD----Early-Careers_R-569912) |
-| **Vanguard** | College to Corporate IT Internship - ... | Malvern, PA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766) |
 | **Crowe** | Data Analytics Developer Intern | Chicago IL USA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041) |
+| **Vanguard** | College to Corporate IT Internship - ... | Malvern, PA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766) |
 | **Notion** | Data Science Intern (Winter 2027) | San Francisco, California | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e) |
 | **KeyBank** | 2027 Summer Analytics and Quantitativ... | Cleveland, OH | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380) |
-| **Vertiv** | Sales Data Analytics Intern (Summer 2... | Westerville, OH, Unite... | 2w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279291) |
-| **Vertiv** | Sales Data Analytics Intern (Summer 2... | Westerville, OH, Unite... | 2w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279293) |
 | **The Nuclear Company** | Summer 2027 Data Science Intern | Washington, DC | 3w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008) |
 | **The Nuclear Company** | Spring 2027 Data Science Intern | Washington, DC | 3w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383218008) |
 | **Boeing** | Boeing Summer 2027 Internship Program... | Everett, WA | 3w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1) |
@@ -171,10 +169,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **JPMorgan Chase** | 2027 Quantitative Research – Markets ... | New York, NY, United S... | 3w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210774038) |
 | **JPMorgan Chase** | 2027 Quantitative Research – Markets ... | New York, NY, United S... | 3w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210774061) |
 | **JPMorgan Chase** | 2027 Quantitative Research – Asset Ma... | New York, NY, United S... | 3w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210774074) |
+| **Ardian** | Data Scientist Intern | New York | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434) |
 | **Synchrony** | BLP Intern – Data Analytics | Stamford Hub | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) |
 | **Campbell Soup Company** | Data Science Intern | NJ | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Science-Intern_Req-65845) |
 | **Campbell Soup Company** | Data Science Intern | NJ | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Science-Intern_Req-65844) |
-| **Ardian** | Data Scientist Intern | New York | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434) |
 | **Stevens Capital Management** | Quantitative Research Analyst Internship | Radnor, PA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/721895) |
 | **Capital One** | Current PhD - Data Science Internship... | McLean, VA | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2027_R244287-1) |
 | **Capital One** | Current Master's - Data Science Inter... | McLean, VA | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2027_R244285-1) |
@@ -235,10 +233,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **Eurofins** | Business Intelligence Intern | Lancaster, PA | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000131132249) |
 | **Toyota Research Institute** | Human Interactive Driving Intern – Wo... | Los Altos, CA | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149) |
-| **Vendelux** | Fall Data Intern | New York, NY | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/vendelux/ec44a794-9622-444e-a789-491fa12726dd) |
 | **Persona AI** | Autonomy Software Engineering Interns... | Houston, TX | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08) |
-| **Mercedes-Benz R&D North America** | ​​AI Program Manager Intern​ | San Jose, CA | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MBRDNA/a5501534-a21b-4e47-a249-37dac374210f) |
+| **Vendelux** | Fall Data Intern | New York, NY | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/vendelux/ec44a794-9622-444e-a789-491fa12726dd) |
 | **Eragon** | Applied AI Intern | San Francisco | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eragon/0b90ea4a-8684-4ae1-a7cc-c998db6e862e) |
+| **Mercedes-Benz R&D North America** | ​​AI Program Manager Intern​ | San Jose, CA | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MBRDNA/a5501534-a21b-4e47-a249-37dac374210f) |
 | **ByteDance** | Video/Image AI/ML Software Engineer I... | San Diego, California | 15m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670354329765464373) |
 | **ByteDance** | Immigration Data Analyst Project Inte... | Seattle, Washington | 15m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7675376319236311349) |
 | **ByteDance** | AI Infrastructure Engineer Intern (Co... | Seattle, Washington | 15m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7668802157205965109) |
@@ -259,19 +257,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Disney** | Disney Signature Experiences Pricing ... | Celebration, FL, USA | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Disney-Signature-Experiences-Pricing---Revenue-Management-Intern--Spring-2027_10158469) |
 | **Disney** | Labor Systems Web Integration Intern,... | Lake Buena Vista, FL, USA | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Web-Integration-Intern--Spring-2027_10158184) |
 | **Disney** | Walt Disney World Workforce Managemen... | Lake Buena Vista, FL, USA | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144) |
+| **Monolithic Power Systems** | AI Developer Intern | California | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-1756) |
 | **National Interstate Insurance** | Risk Management & Insurance Internshi... | Cincinnati, OH | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Risk-Management---Insurance-Internship-Program---Summer-2027--Cincinnati--OH-_R9415) |
 | **Audax Group** | Data Engineer Co-Op | Boston, Massachusetts | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/audaxgroup/jobs/4722770005) |
 | **Audax Group** | Data Engineer CO-OP | Boston, MA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/audaxgroup/jobs/4722779005) |
-| **Monolithic Power Systems** | AI Developer Intern | California | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-1756) |
 | **Freddie Mac** | Single-Family Data Intern- Summer 2027 | McLean, VA | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Data-Intern--Summer-2027_JR17545) |
 | **AMD** | 2027 Undergrad Data Analyst Intern/co-op | Austin, TX, United States | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://campus-amd.icims.com/jobs/91175/login) |
 | **AMD** | 2027 Masters Data Analyst Intern/co-op | Austin, TX, United States | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://campus-amd.icims.com/jobs/91183/login) |
 | **AMD** | 2027 Undergrad Data Analyst Intern/co-op | Santa Clara, CA, Unite... | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://campus-amd.icims.com/jobs/90895/login) |
 | **Zipline** | Perception Intern (Summer 2027) | South San Francisco, C... | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7909570003) |
 | **Integra FEC** | (FALL) Research Analyst Intern | Austin, Texas | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/integra/jobs/5396947008) |
+| **Conagra Brands** | Demand Science Rotational Program - S... | Chicago, Illinois | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Chicago-Illinois/Demand-Science-Rotational-Analyst---Summer-2027_Req-039400) |
 | **National Interstate Insurance** | Internal Audit Intern - Summer 2027 | Cincinnati, OH | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Internal-Audit-Intern---Summer-2027_R9399) |
 | **NREL** | Graduate Fall Intern – Modeling and A... | Boulder, CO | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nrel.wd5.myworkdayjobs.com/NLR/job/Boulder-CO/Graduate-Summer-Intern---Modeling-and-Analysis-of-Distributed-Hybrid-Energy-Systems_R14469) |
-| **Conagra Brands** | Demand Science Rotational Program - S... | Chicago, Illinois | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Chicago-Illinois/Demand-Science-Rotational-Analyst---Summer-2027_Req-039400) |
 | **NVIDIA** | NVIDIA 2027 Internships: Ph.D. Resear... | US, CA, Santa Clara | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475) |
 | **NVIDIA** | NVIDIA 2027 Internships: Ph.D. Resear... | US, CA, Santa Clara | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Large-Language-Models_JR2023837) |
 | **Copart** | Data Engineering Intern | Dallas, TX - Headquarters | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110617) |
@@ -383,7 +381,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 265 current opportunities from 110 companies**
+**🎯 263 current opportunities from 109 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
