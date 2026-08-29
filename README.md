@@ -67,11 +67,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | AI/LLM Network Research Intern (High ... | San Jose, California | 24m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7669969771686775045) |
-| **ByteDance** | Machine Learning Engineer Intern (E-C... | Seattle, Washington | 24m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7675477254269765941) |
-| **ByteDance** | Research Scientist Intern (Multimedia... | San Diego, California | 24m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670354800621603125) |
+| **ByteDance** | AI/LLM Network Research Intern (High ... | San Jose, California | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7669969771686775045) |
+| **ByteDance** | Machine Learning Engineer Intern (E-C... | Seattle, Washington | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7675477254269765941) |
+| **ByteDance** | Research Scientist Intern (Multimedia... | San Diego, California | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670354800621603125) |
 | **Philips** | Intern – Data AI/ML Engineering – Ply... | Plymouth, Minnesota, U... | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Data-AI-ML-Engineering---Plymouth--MN---Summer-2027_590404) |
-| **Analog Devices** | AI/ML Engineer Intern | US, MA, Wilmington | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579) |
+| **Analog Devices** | AI/ML Engineer Intern | US, MA, Wilmington | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579) |
 | **Motorola Solutions** | Supply Chain Applied AI Engineering I... | Chicago, IL, More... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Applied-AI-Engineering-Intern_R67461) |
 | **Workiva** | Summer 2027 Intern - Machine Learning... | Remote | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Machine-Learning-Engineering_R12194-1) |
 | **Wex** | PhD Intern, AI/ML/NLP Engineer | Remote | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/PhD-Intern--AI-ML-NLP-Engineer_R22834) |
@@ -119,8 +119,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Data Lake Infrastructure & Data Analy... | Seattle, Washington | 24m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7672394389001816325) |
-| **ByteDance** | Data Lake Infrastructure & Data Analy... | San Jose, California | 24m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7671109787509213445) |
+| **ByteDance** | Data Lake Infrastructure & Data Analy... | Seattle, Washington | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7672394389001816325) |
+| **ByteDance** | Data Lake Infrastructure & Data Analy... | San Jose, California | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7671109787509213445) |
 | **RE/SPEC Inc.** | Student Engineering Intern - Data Sci... | Rapid City, SD | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/744000107100902) |
 | **Red Bull** | 2026 Internship, Fall - Data Science | Morristown, NJ | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000139168339) |
 | **Leidos** | Data Science Intern | San Diego, CA | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Data-Science-Intern_R-00190740) |
@@ -190,8 +190,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Applied Research Intern - AI Safety S... | San Jose, California | 24m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7645070235035044101) |
-| **Cisco** | AI Researcher II (Intern) - United St... | San Francisco Californ... | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/AI-Researcher-II--Intern----United-States_2024278) |
+| **ByteDance** | Applied Research Intern - AI Safety S... | San Jose, California | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7645070235035044101) |
+| **Cisco** | AI Researcher II (Intern) - United St... | San Francisco Californ... | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/AI-Researcher-II--Intern----United-States_2024278) |
 | **Snap** | Research Intern, User Modeling and Pe... | Bellevue Washington | 2w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://wd1.myworkdaysite.com/snap/job/Bellevue-Washington/Research-Intern--User-Modeling-and-Personalization_R0046464-1) |
 | **The Nuclear Company** | Summer 2027 AI Applied Research Inter... | Washington, DC | 2w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008) |
 | **The Nuclear Company** | Spring 2027 AI Applied Research Inter... | Washington, DC | 2w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391888008) |
@@ -209,14 +209,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Video/Image AI/ML Software Engineer I... | San Diego, California | 24m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670354329765464373) |
-| **ByteDance** | Immigration Data Analyst Project Inte... | Seattle, Washington | 24m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7675376319236311349) |
-| **ByteDance** | AI Infrastructure Engineer Intern (Co... | Seattle, Washington | 24m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7668802157205965109) |
-| **Google** | Student Researcher, PhD, Fall 2026 | United States | 25m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/83535564552184518) |
-| **Google** | Student Researcher, BS/MS, Fall 2026 | United States | 25m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/132362676918461126) |
+| **ByteDance** | Video/Image AI/ML Software Engineer I... | San Diego, California | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670354329765464373) |
+| **ByteDance** | Immigration Data Analyst Project Inte... | Seattle, Washington | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7675376319236311349) |
+| **ByteDance** | AI Infrastructure Engineer Intern (Co... | Seattle, Washington | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7668802157205965109) |
+| **Google** | Student Researcher, PhD, Fall 2026 | United States | 24m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/83535564552184518) |
+| **Google** | Student Researcher, BS/MS, Fall 2026 | United States | 24m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/132362676918461126) |
 | **Eurofins** | Business Intelligence Intern | Lancaster, PA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000131132249) |
-| **Vanguard** | College to Corporate IT Internship - ... | Charlotte, NC | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767) |
-| **Jabil** | Supply Chain Data Analyst Intern | St. Petersburg/Tampa, FL | 8h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Supply-Chain-Data-Analyst-Intern_J2462080) |
+| **Vanguard** | College to Corporate IT Internship - ... | Charlotte, NC | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767) |
+| **Jabil** | Supply Chain Data Analyst Intern | St. Petersburg/Tampa, FL | 9h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Supply-Chain-Data-Analyst-Intern_J2462080) |
 | **The Hartford** | Tech & Data Program Summer 2027 – Dat... | Hartford, CT | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1) |
 | **The Hartford** | Tech & Data Program Summer 2027 – Dat... | Charlotte, NC | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648) |
 | **The Hartford** | Tech & Data Program Summer 2027 - Dat... | Chicago, IL | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Chicago-IL/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Chicago-_R2626650) |
