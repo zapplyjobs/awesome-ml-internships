@@ -67,16 +67,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Cigna** | Artificial Intelligence Innovation De... | NC, Raleigh, 701 Corporate | 7m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712) |
-| **Persona AI** | Machine Learning Internship, Manipula... | Houston, TX | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/persona.ai/ed9a7425-9798-471e-b46a-fefd59570630) |
-| **Institute for Foundation Models** | AI Research Internship - LLM | Sunnyvale, CA | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ifm-us/5342e333-61b9-406d-bfea-61a687a94d1f) |
-| **Human Computer Lab** | Intern - Software/ML Engineer | San Francisco | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705) |
-| **Applied Intuition** | Research Intern - Reinforcement Learn... | Sunnyvale | 7m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/ce58d9fd-f22b-4336-80b5-ba1e8d764526) |
-| **Applied Intuition** | Research Intern - Reinforcement Learn... | Sunnyvale | 7m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/bb953f29-0059-4a40-aa9e-3a8c88733902) |
-| **Applied Intuition** | Research Intern - World-Action Founda... | Sunnyvale | 7m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/edc2528d-6e6c-4a67-b871-bfe7d9c890b4) |
-| **ByteDance** | Machine Learning Engineer Intern (E-C... | Seattle, Washington | 41m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7675477254269765941) |
-| **ByteDance** | AI/LLM Network Research Intern (High ... | San Jose, California | 41m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7669969771686775045) |
-| **ByteDance** | Machine Learning Engineer Intern (AML... | Seattle, Washington | 41m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7672382828525832501) |
+| **Cigna** | Artificial Intelligence Innovation De... | NC, Raleigh, 701 Corporate | 15m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712) |
+| **Persona AI** | Machine Learning Internship, Manipula... | Houston, TX | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/persona.ai/ed9a7425-9798-471e-b46a-fefd59570630) |
+| **Institute for Foundation Models** | AI Research Internship - LLM | Sunnyvale, CA | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ifm-us/5342e333-61b9-406d-bfea-61a687a94d1f) |
+| **Human Computer Lab** | Intern - Software/ML Engineer | San Francisco | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705) |
+| **Applied Intuition** | Research Intern - Reinforcement Learn... | Sunnyvale | 16m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/ce58d9fd-f22b-4336-80b5-ba1e8d764526) |
+| **Applied Intuition** | Research Intern - Reinforcement Learn... | Sunnyvale | 16m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/bb953f29-0059-4a40-aa9e-3a8c88733902) |
+| **Applied Intuition** | Research Intern - World-Action Founda... | Sunnyvale | 16m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/edc2528d-6e6c-4a67-b871-bfe7d9c890b4) |
+| **ByteDance** | Machine Learning Engineer Intern (E-C... | Seattle, Washington | 49m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7675477254269765941) |
+| **ByteDance** | AI/LLM Network Research Intern (High ... | San Jose, California | 49m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7669969771686775045) |
+| **ByteDance** | Machine Learning Engineer Intern (AML... | Seattle, Washington | 49m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7672382828525832501) |
 | **Nike** | NIKE, Inc. Artificial Intelligence, D... | Beaverton, Oregon | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nike.wd1.myworkdayjobs.com/NKE/job/Beaverton-Oregon/NIKE--Inc-Artificial-Intelligence--Data----Machine-Learning-Engineering-Undergraduate-Internship_R-91110) |
 | **AeroVironment** | Summer 2027 Machine Learning Intern | Minneapolis, MN | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avav.wd1.myworkdayjobs.com/AVAV/job/Minneapolis-MN/Summer-2027-Machine-Learning-Intern_8389) |
 | **Microsoft** | Software Engineer: AI/ML & LLM Intern... | Redmond, Washington, United States | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556922929) |
@@ -141,10 +141,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RE/SPEC Inc.** | Student Engineering Intern - Data Sci... | Rapid City, SD | 6m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/744000107100902) |
-| **Red Bull** | 2026 Internship, Fall - Data Science | Morristown, NJ | 6m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000139168339) |
-| **ByteDance** | Data Lake Infrastructure & Data Analy... | Seattle, Washington | 41m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7672394389001816325) |
-| **ByteDance** | Data Lake Infrastructure & Data Analy... | San Jose, California | 41m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7671109787509213445) |
+| **RE/SPEC Inc.** | Student Engineering Intern - Data Sci... | Rapid City, SD | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/744000107100902) |
+| **Red Bull** | 2026 Internship, Fall - Data Science | Morristown, NJ | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000139168339) |
+| **ByteDance** | Data Lake Infrastructure & Data Analy... | Seattle, Washington | 49m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7672394389001816325) |
+| **ByteDance** | Data Lake Infrastructure & Data Analy... | San Jose, California | 49m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7671109787509213445) |
 | **Microsoft** | Data Science: PhD Internship Opportun... | Redmond, Washington, United States | 23h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556982928) |
 | **Johnson & Johnson** | Data Science Co-Op, Summer 2027 | Cincinnati, Ohio, United States ... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746) |
 | **PIMCO** | 2027 PhD Summer Intern – Portfolio Ma... | Newport Beach, CA USA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Portfolio-Management--Quantitative-Research-Analyst_R106749) |
@@ -240,12 +240,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Modal** | ML Research Intern | New York | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) |
-| **Eight Sleep** | AI/ML Research Internship | San Francisco | 7m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eightsleep/b6c2e6f6-eadd-4d67-93e9-1426be4f2035) |
-| **Applied Intuition** | Research Intern - 3D Vision and Gener... | Sunnyvale | 7m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/91e0686e-272a-4780-b33d-d7860b94a7b4) |
-| **Applied Intuition** | Research Intern - Robotic Hardware, S... | Sunnyvale | 7m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883) |
-| **ByteDance** | Applied Research Intern - AI Safety S... | San Jose, California | 41m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7645070235035044101) |
-| **ByteDance** | Research Intern (Frontier AI Systems)... | San Jose, California | 41m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7679894132806650165) |
+| **Modal** | ML Research Intern | New York | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) |
+| **Eight Sleep** | AI/ML Research Internship | San Francisco | 15m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eightsleep/b6c2e6f6-eadd-4d67-93e9-1426be4f2035) |
+| **Applied Intuition** | Research Intern - 3D Vision and Gener... | Sunnyvale | 16m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/91e0686e-272a-4780-b33d-d7860b94a7b4) |
+| **Applied Intuition** | Research Intern - Robotic Hardware, S... | Sunnyvale | 16m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883) |
+| **ByteDance** | Applied Research Intern - AI Safety S... | San Jose, California | 49m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7645070235035044101) |
+| **ByteDance** | Research Intern (Frontier AI Systems)... | San Jose, California | 49m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7679894132806650165) |
 | **Snap** | Research Intern, User Modeling and Pe... | Bellevue Washington | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://wd1.myworkdaysite.com/snap/job/Bellevue-Washington/Research-Intern--User-Modeling-and-Personalization_R0046464-1) |
 | **Cisco** | AI Researcher II (Intern) - United St... | San Francisco California US | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/AI-Researcher-II--Intern----United-States_2024278) |
 | **The Nuclear Company** | Summer 2027 AI Applied Research Inter... | Washington, DC | 2w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008) |
@@ -263,18 +263,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Eurofins** | Business Intelligence Intern | Lancaster, PA | 6m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000131132249) |
-| **Toyota Research Institute** | Human Interactive Driving Intern – Wo... | Los Altos, CA | 7m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149) |
-| **Persona AI** | Autonomy Software Engineering Interns... | Houston, TX | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08) |
-| **Vendelux** | Fall Data Intern | New York, NY | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/vendelux/ec44a794-9622-444e-a789-491fa12726dd) |
-| **Mercedes-Benz R&D North America** | ​​AI Program Manager Intern​ | San Jose, CA | 7m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MBRDNA/a5501534-a21b-4e47-a249-37dac374210f) |
-| **Eragon** | Applied AI Intern | San Francisco | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eragon/0b90ea4a-8684-4ae1-a7cc-c998db6e862e) |
-| **National Interstate Insurance** | Business Development Intern- Summer 2027 | Richfield, OH | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Richfield-OH-USA/Business-Development-Intern--Summer-2027_R9500-2) |
-| **ByteDance** | Video/Image AI/ML Software Engineer I... | San Diego, California | 41m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670354329765464373) |
-| **ByteDance** | Immigration Data Analyst Project Inte... | Seattle, Washington | 41m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7675376319236311349) |
-| **ByteDance** | AI Infrastructure Engineer Intern (Co... | Seattle, Washington | 41m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7668802157205965109) |
-| **Google** | Student Researcher, PhD, Fall 2026 | United States | 42m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/83535564552184518) |
-| **Google** | Student Researcher, BS/MS, Fall 2026 | United States | 42m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/132362676918461126) |
+| **Eurofins** | Business Intelligence Intern | Lancaster, PA | 15m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000131132249) |
+| **Toyota Research Institute** | Human Interactive Driving Intern – Wo... | Los Altos, CA | 15m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149) |
+| **Persona AI** | Autonomy Software Engineering Interns... | Houston, TX | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08) |
+| **Vendelux** | Fall Data Intern | New York, NY | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/vendelux/ec44a794-9622-444e-a789-491fa12726dd) |
+| **Mercedes-Benz R&D North America** | ​​AI Program Manager Intern​ | San Jose, CA | 15m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MBRDNA/a5501534-a21b-4e47-a249-37dac374210f) |
+| **Eragon** | Applied AI Intern | San Francisco | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eragon/0b90ea4a-8684-4ae1-a7cc-c998db6e862e) |
+| **National Interstate Insurance** | Business Development Intern- Summer 2027 | Richfield, OH | 44m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Richfield-OH-USA/Business-Development-Intern--Summer-2027_R9500-2) |
+| **ByteDance** | Video/Image AI/ML Software Engineer I... | San Diego, California | 49m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670354329765464373) |
+| **ByteDance** | Immigration Data Analyst Project Inte... | Seattle, Washington | 49m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7675376319236311349) |
+| **ByteDance** | AI Infrastructure Engineer Intern (Co... | Seattle, Washington | 49m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7668802157205965109) |
+| **Google** | Student Researcher, PhD, Fall 2026 | United States | 50m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/83535564552184518) |
+| **Google** | Student Researcher, BS/MS, Fall 2026 | United States | 50m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/132362676918461126) |
 | **Flagship Pioneering** | Pioneering Intelligence: Agentic AI C... | Cambridge, MA USA | 7h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/fspco-op012325/jobs/8769080002) |
 | **Philips** | Co-op-Data Engineering-Reedsville, PA... | Reedsville, Pennsylvania, United... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Reedsville-Pennsylvania-United-States/Co-op-Data-Engineering-Reedsville--PA-January-June-2027_587484) |
 | **Philips** | Co-op-Data Engineering-Reedsville, PA... | Reedsville, Pennsylvania, United... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Reedsville-Pennsylvania-United-States/Co-op-Data-Engineering-Reedsville--PA-July-December-2027_587486) |
